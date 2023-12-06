@@ -11,8 +11,8 @@
 #define DHTTYPE DHT11   // Kullandığımız sensörün tipi DHT 11
 
 #ifndef STASSID
-#define STASSID "FiberHGW_ZTYGA9_2.4GHz"
-#define STAPSK "79PbcKcPsxbY"
+#define STASSID "...."
+#define STAPSK "...."
 #endif
 
 #define TRIGPIN 16 
